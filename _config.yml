@@ -15,7 +15,7 @@ keep_files:
 # Site settings
 title: Layers
 subtitle: "Layers Music Project"
-url: "http://www.layersmusicproject.com" # the base hostname & protocol for your site
+url: "http://www.layermusicproject.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 cover: "/assets/cover.png"
