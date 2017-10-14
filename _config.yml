@@ -34,3 +34,12 @@ markdown: kramdown
 
   # - cat: dummy
   #   desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+
+twitter_username:     LayerProject
+youtube_username:     layeryb
+soundcloud_username:  layer-music-project
+facebook_username:    layermusicproject
+
+plugins_dir:
+  - jekyll-soundcloud
