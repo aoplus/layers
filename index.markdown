@@ -1,3 +1,3 @@
 ---
-redirect_from: "https://facebook.com/layermusicproject"
+redirect_from: "https://layermusicproject.onuniverse.com"
 ---
